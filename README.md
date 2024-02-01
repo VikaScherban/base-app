@@ -1,4 +1,4 @@
-[![Workflow for Codecov](https://github.com/VikaScherban/base-app/actions/workflows/ci.yml/badge.svg)](https://github.com/VikaScherban/base-app/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/VikaScherban/base-app/graph/badge.svg?token=1TZP7PDY7Z)](https://codecov.io/gh/VikaScherban/base-app)
 # BaseApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
