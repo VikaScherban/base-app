@@ -13,7 +13,7 @@ import {MatButtonModule} from "@angular/material/button";
 })
 export class AppComponent {
   currentEmail = '';
-  userName = 'Viktoriia';
+  userName = 'Ella';
 
   onEmailChange(emailValue: string): void {
     this.currentEmail = emailValue;
